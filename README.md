@@ -1,2 +1,4 @@
 # Pong
-20 games challenge
+Game #1 in 20 games challenge
+
+https://20_games_challenge.gitlab.io/games/pong/
